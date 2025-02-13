@@ -1,0 +1,44 @@
+"title","title_other","name_first","name_last","email","comments","source","Date","Time","Remote Name","Remote User","HTTP User Agent"
+"Miss","","Effie","Burge","EffieB_London@hotmail.com","How do I join? (as an amateur actress, I'm doing my A levels)","I searched","12/10/99","20:51:16","195.92.197.53","","Mozilla/4.0 (compatible; MSIE 5.0; Windows 95; DigExt)"
+"Ms","","Clare","Riley","clare@icompub.com","I am as aspiring writer and i was wondering when the next reading evening is and is there going to be a regular timetable of them, Also, do you have to have been a published writer or have any of your scripts performed at all, as i am a recent graduate and haven't had such success apart from at uni, i would really love to find out more info about twice as loud and it looks like just the site i have been looking for","I searched","23/11/99","16:17:04","158.152.81.250","","Mozilla/4.0 (compatible; MSIE 5.0; MSN 2.5; Windows 95)"
+"Ms","","Andrea","Kaiser","andrea_kaiser@gmx.de","Dear Sir or Madam,
+
+I am a student from the U.S. Webster Graduate Studies Centre, London, and
+I am performing a market research project. Subject: Theatres in London and
+how they market themselves. 
+
+- What marketing activities is your company involved in? 
+
+- Do you know statistics about the client base of the theatres?
+
+- Do you know about market size of London's theatres?
+
+I would be very delighted if you could help me.
+Thank you for your answer. 
+
+Regards
+Andrea Kaiser","I searched","05/12/99","22:45:37","194.83.242.87","","Mozilla/4.7 [en] (WinNT; I)"
+"Ms","","Melanie","HavelockBrown","defsef@hotmail.com","How can get involved as an actress in your performances?","I searched","13/12/99","13:04:44","212.228.206.75","","Mozilla/4.0 (compatible; MSIE 5.0; Windows 98; DigExt)"
+"Miss","","Beth","vonKelsch","djboofenstuff@cs.com","I am living in a city that has yet to discover its theatrical freedom.  (At this point, the riskiest productions involve Sam Shepard plays.) I am attempting, with a substantial group of supporters, to turn the theatre environment into a progressive atmosphere.  One aspect of my attempt is a monthly circulating newsletter--although it is rather proactive, I try to stay away from blatant proganda.  I would appreciate any words, opinions, or otherwise, to include in the newsletter.  It would be helpful to my readers to not have a completely singular opinion (i.e. mine).  I understand if you deny my request due to libel or copyright laws.  But I would even appreciate any advice on reconstructing or (dare I say it) revolutionizing theatre in my area--Richmond, Virginia.  Any reply at all would be helpful.  Thank you.
+Beth vonKelsch  ","I searched","04/06/00","09:08:27","152.163.213.176","","Mozilla/4.0 (compatible; MSIE 4.01; CS 2000; Windows 98; Compaq)"
+"Mr","","matthew","mcfarlane","wu_tang_y2k_2000@yahoo.com","what do you do these concertes for and why ?
+would u please send me some infomation on how to become a stage manager and the best why to find out about it further thanx very much matt
+","Followed a link from another theatre site","17/08/00","15:50:57","212.188.149.109","","Mozilla/4.0 (compatible; MSIE 5.0; Windows 98; DigExt)"
+"Mr","","Wyn","Middleton","wynmiddleton@yahoo.com","Hi,
+
+I came across your site and am keen to find out a little more about what Twice As Loud are up to.
+Do you have any productions planned for the near future?
+
+I am currently attending Morley College's Theatre School.
+Our end of term production (June 28th & 29th) is David Hare's Plenty.
+Feel free to come along.
+
+I am keen to get involved in fringe theatre myself and possibly even start my own company, although the horrendous costs I know would be involved makes the whole idea seem less and less appealing the more I think about it. I would, however, be very interested to learn more about Twice As Loud and your experiences with fringe theatre.
+
+If you've got time to reply, feel free to drop me a line.
+Perhaps I could even meet up with some of you guys and quiz you some more.
+
+Regards,
+
+Wyn Middleton
+","Followed a link from another theatre site","14/06/01","11:05:45","194.223.5.7","","Mozilla/4.74 [en] (Win95; U)"
